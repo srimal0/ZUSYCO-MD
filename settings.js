@@ -35,7 +35,7 @@ module.exports = {
   WORK_TYPE : "public",
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
-  CAPTION : 'SD BOT',
+  CAPTION : '*From SD...*',
   STICKER_PACK : 'SD',
   BAD_WORDS : 'fuck,pussy,sex,hutto,pakaya,wal,fucking,wesi,fucker',
   ANTI_BAD : false,
@@ -55,7 +55,7 @@ module.exports = {
   BOT_OFFLINE : false,
   INBOX_BLOCK : false,
   AUTO_REACT : true,
-  OWNER_REACT : '✨',
+  OWNER_REACT : '🌙',
   AUTO_BGM : true,
   BGM : {
     "chaio" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-caio.mp3",
